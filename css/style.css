@@ -1,9 +1,12 @@
 .galeria-fotos {
-    margin: 0 auto;
-    padding: 0 2%;
-    max-width: 960px;
+    margin: auto;
+    padding: 1rem auto;
 }
 
 .galeria-fotos img {
-    width: 100%;
+    max-width: 385px !important;
+}
+
+img {
+    max-width: 385px !important;
 }
